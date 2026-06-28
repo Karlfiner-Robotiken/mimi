@@ -36,3 +36,5 @@ CHAT: what is gpt
 CODE: write code for termux banner
 CHAT: what is dual computing
 CHAT: what is ai
+CODE: write code to patch voice assistant into chat settings on mimi
+CHAT: what os ai
